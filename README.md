@@ -1,1 +1,1 @@
-# device-comptiable-
+# device-compitable-
